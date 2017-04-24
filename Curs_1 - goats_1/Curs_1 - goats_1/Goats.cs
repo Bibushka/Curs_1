@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Curs_1___goats_1
 {
     [TestClass]
-    public class Goats_1
+    public class Goats
     {
         [TestMethod]
         public void TestMethod1()
