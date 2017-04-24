@@ -1,0 +1,7 @@
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\obj\Debug\Curs_1 - goats_1.csprojResolveAssemblyReference.cache
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\bin\Debug\Curs_1 - goats_1.dll
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\bin\Debug\Curs_1 - goats_1.pdb
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\obj\Debug\Curs_1 - goats_1.dll
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\Curs_1 - goats_1\Curs_1 - goats_1\obj\Debug\Curs_1 - goats_1.pdb
