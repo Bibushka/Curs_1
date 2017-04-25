@@ -4,10 +4,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Pavements
 {
     [TestClass]
-    public class UnitTest1
+    public class Pavements
     {
-        [TestMethod]
-        public void TestMethod1()
+        [TestMethod]     
+        public void JuniorMindResult()
         {
             double numberOfSlabs = GetNumberOfSlabs(6, 6, 4, 4);
             Assert.AreEqual(4, numberOfSlabs);
