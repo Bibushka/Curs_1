@@ -1,0 +1,7 @@
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\bin\Debug\WoodenFloors.dll
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\bin\Debug\WoodenFloors.pdb
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\obj\Debug\WoodenFloors.csprojResolveAssemblyReference.cache
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\obj\Debug\WoodenFloors.dll
+C:\Users\brankana\Desktop\Junior Mind\Curs_1\WoodenFloors\WoodenFloors\obj\Debug\WoodenFloors.pdb

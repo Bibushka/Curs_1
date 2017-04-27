@@ -15,7 +15,8 @@ namespace Trains
 
         public double GetBirdDistance(double totalDistance, double trainSpeed)
         {
-            double birdTime = 1 / 4 * totalDistance / trainSpeed;
+            double totalTime = totalDistance / trainSpeed;
+            double birdTime = 1 / 4 * totalTime;
             double birdDistance = birdTime * 2 * trainSpeed;
             return birdDistance;
         }
